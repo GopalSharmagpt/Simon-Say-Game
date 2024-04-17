@@ -1,3 +1,3 @@
 # Simon Say Game
 
-This Project was created by Gopal Sharma
+This project is created by Gopal Sharma
